@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|solutionrelative:thisgameissofun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\services\\mongotestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|solutionrelative:thisgameissofun\\services\\mongotestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|solutionrelative:thisgameissofun\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\models\\mongostudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|solutionrelative:thisgameissofun\\models\\mongostudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|solutionrelative:thisgameissofun\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|solutionrelative:thisgameissofun\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\infrastructures\\models\\mongodbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|solutionrelative:thisgameissofun\\infrastructures\\models\\mongodbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\infrastructures\\config\\iocconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|solutionrelative:thisgameissofun\\infrastructures\\config\\iocconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|solutionrelative:thisgameissofun\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|solutionrelative:thisgameissofun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\infrastructures\\config\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|solutionrelative:thisgameissofun\\infrastructures\\config\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\common\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|solutionrelative:thisgameissofun\\common\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|solutionrelative:thisgameissofun\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{466107D4-C8DC-454F-9493-D4FAF8FFA531}|ThisGameIsSoFun\\ThisGameIsSoFun.csproj|e:\\learning dev\\source codes\\131125\\thisgameissofun\\thisgameissofun\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 64,
+          "SelectedChildIndex": 59,
           "Children": [
             {
               "$type": "Bookmark",
@@ -274,7 +294,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "MongoStudents.cs",
+              "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Models\\MongoStudents.cs",
+              "RelativeDocumentMoniker": "ThisGameIsSoFun\\Models\\MongoStudents.cs",
+              "ToolTip": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Models\\MongoStudents.cs",
+              "RelativeToolTip": "ThisGameIsSoFun\\Models\\MongoStudents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:53:29.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IocConfig.cs",
+              "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Infrastructures\\Config\\IocConfig.cs",
+              "RelativeDocumentMoniker": "ThisGameIsSoFun\\Infrastructures\\Config\\IocConfig.cs",
+              "ToolTip": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Infrastructures\\Config\\IocConfig.cs",
+              "RelativeToolTip": "ThisGameIsSoFun\\Infrastructures\\Config\\IocConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:47:40.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongoTestService.cs",
+              "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Services\\MongoTestService.cs",
+              "RelativeDocumentMoniker": "ThisGameIsSoFun\\Services\\MongoTestService.cs",
+              "ToolTip": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Services\\MongoTestService.cs*",
+              "RelativeToolTip": "ThisGameIsSoFun\\Services\\MongoTestService.cs*",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwDAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:46:37.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbConfig.cs",
+              "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Infrastructures\\Config\\DbConfig.cs",
+              "RelativeDocumentMoniker": "ThisGameIsSoFun\\Infrastructures\\Config\\DbConfig.cs",
+              "ToolTip": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Infrastructures\\Config\\DbConfig.cs",
+              "RelativeToolTip": "ThisGameIsSoFun\\Infrastructures\\Config\\DbConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:41:35.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MongoDbConfig.cs",
+              "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Infrastructures\\Models\\MongoDbConfig.cs",
+              "RelativeDocumentMoniker": "ThisGameIsSoFun\\Infrastructures\\Models\\MongoDbConfig.cs",
+              "ToolTip": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Infrastructures\\Models\\MongoDbConfig.cs",
+              "RelativeToolTip": "ThisGameIsSoFun\\Infrastructures\\Models\\MongoDbConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:39:16.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ConfigAuth.cs",
               "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\ConfigAuth.cs",
               "RelativeDocumentMoniker": "ThisGameIsSoFun\\ConfigAuth.cs",
@@ -282,11 +367,12 @@
               "RelativeToolTip": "ThisGameIsSoFun\\ConfigAuth.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T10:07:45.485Z"
+              "WhenOpened": "2025-11-13T10:07:45.485Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "MigrationExtensions.cs",
               "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Extensions\\MigrationExtensions.cs",
               "RelativeDocumentMoniker": "ThisGameIsSoFun\\Extensions\\MigrationExtensions.cs",
@@ -299,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Database\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ThisGameIsSoFun\\Database\\ApplicationDbContext.cs",
@@ -312,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Models\\User.cs",
               "RelativeDocumentMoniker": "ThisGameIsSoFun\\Models\\User.cs",
@@ -325,20 +411,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Test.cs",
-              "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Controllers\\Test.cs",
-              "RelativeDocumentMoniker": "ThisGameIsSoFun\\Controllers\\Test.cs",
-              "ToolTip": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Controllers\\Test.cs",
-              "RelativeToolTip": "ThisGameIsSoFun\\Controllers\\Test.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "DocumentIndex": 3,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "ThisGameIsSoFun\\Controllers\\TestController.cs",
+              "ToolTip": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Controllers\\TestController.cs",
+              "RelativeToolTip": "ThisGameIsSoFun\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T08:48:13.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Constants.cs",
               "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Common\\Constants.cs",
               "RelativeDocumentMoniker": "ThisGameIsSoFun\\Common\\Constants.cs",
@@ -351,26 +437,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\appsettings.json",
               "RelativeDocumentMoniker": "ThisGameIsSoFun\\appsettings.json",
               "ToolTip": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\appsettings.json",
               "RelativeToolTip": "ThisGameIsSoFun\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-13T08:36:45.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Program.cs",
               "RelativeDocumentMoniker": "ThisGameIsSoFun\\Program.cs",
               "ToolTip": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\Program.cs",
               "RelativeToolTip": "ThisGameIsSoFun\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T08:35:50.982Z",
               "EditorCaption": ""

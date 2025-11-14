@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using ThisGameIsSoFun.Database;
 using ThisGameIsSoFun.Extensions;
+using ThisGameIsSoFun.Infrastructures.Config;
 using ThisGameIsSoFun.Models;
 
 
@@ -42,6 +43,22 @@ builder.Services
 
 // Đăng ký DbContext với SQL Server, chuỗi kết nối lấy từ file cấu hình appsetting.json
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("MainDBContext")));
+
+
+
+
+
+
+// Config Mongodb
+DbConfig.MongoDbConfig(builder);
+
+// Add Service
+IocConfig.IocConfiguration(builder);
+
+
+
+
+
 
 // Dựng ứng dụng
 // DI container khóa
