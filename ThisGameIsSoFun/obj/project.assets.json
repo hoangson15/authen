@@ -4917,23 +4917,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SONHC\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\yuhn_nart\\.nuget\\packages\\": {},
+    "D:\\Installed\\vs_shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\ThisGameIsSoFun.csproj",
+      "projectUniqueName": "D:\\github\\authen\\ThisGameIsSoFun\\ThisGameIsSoFun.csproj",
       "projectName": "ThisGameIsSoFun",
-      "projectPath": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\ThisGameIsSoFun.csproj",
-      "packagesPath": "C:\\Users\\SONHC\\.nuget\\packages\\",
-      "outputPath": "E:\\Learning dev\\source codes\\131125\\ThisGameIsSoFun\\ThisGameIsSoFun\\obj\\",
+      "projectPath": "D:\\github\\authen\\ThisGameIsSoFun\\ThisGameIsSoFun.csproj",
+      "packagesPath": "C:\\Users\\yuhn_nart\\.nuget\\packages\\",
+      "outputPath": "D:\\github\\authen\\ThisGameIsSoFun\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "D:\\Installed\\vs_shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\SONHC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yuhn_nart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4941,7 +4942,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4959,7 +4959,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -5011,7 +5012,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
