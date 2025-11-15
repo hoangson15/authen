@@ -1,0 +1,9 @@
+# Cấu hình Visual Studio
+# Các tệp cấu hình tạm thời, cục bộ và user-specific
+*.suo
+*.user
+*.config.user
+*.resharper
+
+# Thư mục chứa tệp tạm thời và cache của Visual Studio (Rất quan trọng)
+.vs/
